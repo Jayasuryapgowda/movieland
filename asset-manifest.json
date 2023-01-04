@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jayasuryapgowda.github.io/movieland/static/css/main.334bdeb1.css",
+    "main.js": "/Jayasuryapgowda.github.io/movieland/static/js/main.fc611886.js",
+    "index.html": "/Jayasuryapgowda.github.io/movieland/index.html",
+    "static/media/search.svg": "/Jayasuryapgowda.github.io/movieland/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Jayasuryapgowda.github.io/movieland/static/css/main.334bdeb1.css.map",
+    "main.fc611886.js.map": "/Jayasuryapgowda.github.io/movieland/static/js/main.fc611886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.fc611886.js"
+  ]
+}
